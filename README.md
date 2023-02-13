@@ -9,14 +9,14 @@ Regression analysis on (scatter)
   - rating vs course duration / number of lecturs
   - rating vs num subscribers
   - multi var - number of sub, number of lectures and content duration
-   linear - number of coursers per year
-   bar - histograms of content duration,
-   bar- histogram year published
-   boxplot - duration,
-   violin- n_lectures
-   pie- levels 
-   radar - price, n-subscribers, n-rating, duration, number_lecturs
-   ,
-   multiple series chart and 
+  - linear - number of coursers per year
+  - bar - histograms of content duration,
+  - bar- histogram year published
+  - boxplot - duration,
+  - violin- n_lectures
+  - pie- levels 
+  - radar - price, n-subscribers, n-rating, duration, number_lecturs
    
-   analyse course names, via string and count and then do bubble plot to show frequency, - or bar chart for simplification
+  - multiple series charts... 
+   
+  - if time... analyse course names, via string and count and then do bubble plot to show frequency, - or bar chart for simplification
