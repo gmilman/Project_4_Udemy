@@ -32,7 +32,8 @@ Regression analysis on (scatter)
 - gm
   - 1 price vs number of subsribers -
   - 2 price vs number of subsribers vs duration since published (3D charts)
- -yunke
+
+-yunke
   - 3 rating vs course duration / number of lecturs
   - 4 rating vs num subscribers
   
