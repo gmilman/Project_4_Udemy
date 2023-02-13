@@ -18,5 +18,7 @@ Regression analysis on (scatter)
   - radar - price, n-subscribers, n-rating, duration, number_lecturs
    
   - multiple series charts... 
+    - year vs price category (categorise the prices)(grouped)
+    - level vs price categories (stacked)
    
   - if time... analyse course names, via string and count and then do bubble plot to show frequency, - or bar chart for simplification
