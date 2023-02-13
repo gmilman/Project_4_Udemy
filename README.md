@@ -21,7 +21,7 @@ simple stuff:
   - 20 - number of courses published per year (line)
   - 21 - avg price of course per year - box plot type thing
   
-  - multiple series charts... 
+ multiple series charts... 
     - 13 bar - year vs price category (categorise the prices)(grouped)
     - 14 bar - level vs price categories (stacked)
 
